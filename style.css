@@ -62,8 +62,3 @@
 #footer{
   object-fit: cover;
 }
-
-#footer .container > .row{
-  margin: 100px;
-  padding: 0px;
-}
